@@ -9,3 +9,6 @@
 ``` c++
 int i = 9999;
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [x] Introduce myself to the world
